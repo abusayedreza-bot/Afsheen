@@ -1,0 +1,8 @@
+{
+  "name": "Afsheen Enterprise - Luxury Korea Guide",
+  "description": "A high-end travel landing page integrating Laws of UX, Gestalt Principles, and Nielsen Heuristics with an AI-powered travel assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
